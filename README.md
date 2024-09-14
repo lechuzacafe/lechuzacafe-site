@@ -10,7 +10,12 @@ Searx
 Privatebin
 
 
+
+
+
 Private (invite only): 
+
+
 
 Vaultwarden
 
@@ -18,7 +23,13 @@ Email (using Snappymail)
 
 
 
+
+
+
+
 To-do (services I'd like to add):
+
+
 
 Invidious (Youtube proxy)
 
