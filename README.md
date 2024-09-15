@@ -3,37 +3,44 @@ This website is hosted on a LEMP stack running on a RoyaleHosting VPS, and built
 
 Currently running instances:
 
-Public: 
+**Public:** 
 
-Searx
+*Searx*
 
-Privatebin
-
-
-
-
-
-Private (invite only): 
-
-
-
-Vaultwarden
-
-Email (using Snappymail)
+*Privatebin*
 
 
 
 
 
-
-
-To-do (services I'd like to add):
+**Private (invite only):**
 
 
 
-Invidious (Youtube proxy)
+*Vaultwarden*
 
-Redlib (Reddit proxy)
+*Email (using Snappymail)*
 
-Wireguard (currently running, but needs a better front-end)
+
+
+
+
+
+
+**To-do (services I'd like to add):**
+
+*cgit (needs proper configuration*
+
+*Invidious (Youtube proxy)*
+
+*Redlib (Reddit proxy)*
+
+*Wireguard (currently running, but needs a better front-end)*
+
+
+**Deprecated (services I no longer run):**
+
+*Forgejo (made redundant by cgit)*
+*Wacintaki Oekaki (currently private)*
+*MediaWiki (was for testing purposes)*
 
