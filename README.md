@@ -41,6 +41,8 @@ Currently running instances:
 **Deprecated (services I no longer run):**
 
 *Forgejo (made redundant by cgit)*
+
 *Wacintaki Oekaki (currently private)*
+
 *MediaWiki (was for testing purposes)*
 
